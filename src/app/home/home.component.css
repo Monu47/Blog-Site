@@ -1,0 +1,108 @@
+.background-image{
+    height:40em; 
+    background-size:cover;
+    width:auto;
+    background-image:url('https://c4.wallpaperflare.com/wallpaper/341/65/160/coffee-laptop-notes-5k-uhd-wallpaper-preview.jpg');
+}
+
+.background-text{
+    color: white;
+    position: absolute;
+    top: 110px;
+    right: 25px;
+    font-size: 50px;
+    font-family: Times, Serif;
+  }
+
+.background-text1{
+    color: white;
+    position: absolute;
+    top: 160px;
+    right: 25px;
+    font-size: 20px;
+    font-family: Times, Serif;
+}
+
+.list-blog{
+    margin-top: 20px;
+    margin-left : 50px;
+    float: left;
+    margin-bottom: 100px;
+}
+
+.article{
+    width: 100%;
+    margin-top: 30px;
+    padding: 100px;
+}
+
+.topic{
+    color: rgb(32, 32, 32);
+   font-size: 35px;
+   line-height: normal;
+   margin-bottom: 10px;
+   font-family:Roboto,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+   font-stretch: semi-expanded;
+   font-weight: 500;
+   
+  
+}
+
+.writer{
+    color: grey;
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: 200;
+}
+
+.description{
+    margin-top: 50px;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 200;
+    color: #444;
+    line-height: 35px;
+}
+
+.button_nav{
+    color: white;
+    background-color: rgb(124, 124, 124); 
+    font-size: 20px;  
+    padding: 15px; 
+    border-radius: 1em;
+    margin-left: 350px;
+}
+
+.button_div{
+   margin-top: 40px;
+   
+}
+
+.footer {
+    padding: 40px;
+    text-align: top;
+    overflow: hidden;
+  background-color: rgb(10, 10, 10);
+  color: white;
+}
+
+.footer a.logo {
+    float:left;
+    text-align: top;
+    font-family: "Brush Script MT", cursive;
+    font-style: italic;
+    font-size: 25px;
+    color: white;
+    
+}
+
+.foo{
+    text-align: right;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+
+
+
+
